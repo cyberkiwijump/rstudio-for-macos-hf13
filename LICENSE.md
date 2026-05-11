@@ -1,4 +1,4 @@
-# 
+# Enhance RStudio for macOS with updated RStudio for macOS Workflow | pivot-tables + code-autocompletion, the #1 workflow. Includes pivot-tables and code-autocompletion for a
 
 
 
